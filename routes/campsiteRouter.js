@@ -1,5 +1,3 @@
-const { response } = require("express");
-const e = require("express");
 const express = require("express");
 const Campsite = require("../models/campsite");
 
